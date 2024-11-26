@@ -1,0 +1,5 @@
+
+vgamepad
+pyautogui
+pytesseract
+Pillow
