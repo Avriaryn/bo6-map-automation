@@ -25,16 +25,3 @@ This project provides a Python-based automation script to back out of lobbies an
 Install the required Python libraries:
 ```bash
 pip install -r requirements.txt
-
----
-
-## Tesseract OCR
-### Download and Install Tesseract OCR:
-1. Install Tesseract OCR from the [official repository](https://github.com/tesseract-ocr/tesseract).
-2. During installation, ensure the **Language Data** component is selected.
-
-### Update the Tesseract Path:
-Update the path in the script to match your Tesseract installation:
-
-```python
-pytesseract.pytesseract_cmd = r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
