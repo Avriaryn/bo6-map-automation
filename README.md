@@ -50,7 +50,7 @@ pip install -r requirements.txt
 1. **Clone or Download the Repository**  
 Clone the repository using:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Avriaryn/bo6-map-automation.git
 ```
 Alternatively, download the files directly from GitHub.
 
