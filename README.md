@@ -63,7 +63,7 @@ pip install -r requirements.txt
 3. **Run the Script**  
 Run the script using Python:
 ```bash
-python map-automation
+python map-automation.py
 ```
 
 4. **Select Input Method**  
